@@ -6,5 +6,5 @@
 
 - 📍 Toronto, ON 🇨🇦 / San Francisco, CA 🇺🇸
 - 📚 Fourth-year CS student at the [University of Waterloo](https://uwaterloo.ca/)
-- 💻 Former SWE intern [@Facebook](https://github.com/facebook), [@Instagram](https://github.com/instagram), [@Google](https://github.com/google), [@Globality](https://github.com/globality-corp), [@Tulip](https://github.com/tulip)
+- 💻 Former SWE intern [@Facebook](https://github.com/facebook)/[@Instagram](https://github.com/instagram), [@Google](https://github.com/google), [@Globality](https://github.com/globality-corp), [@Tulip](https://github.com/tulip)
 - 👨‍💻 Currently working on [@CodingCourses](https://github.com/codingcourses), an online educational platform
