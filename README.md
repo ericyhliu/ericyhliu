@@ -5,5 +5,5 @@
 ---
 
 - 📍 Toronto, ON 🇨🇦 / San Francisco, CA 🇺🇸
-- 📚 [University of Waterloo](https://uwaterloo.ca/) CS Alumni (Class of 2020)
+- 📚 [University of Waterloo](https://uwaterloo.ca/) CS Alumni (Class of 2021)
 - 💻 Former SWE intern [@Facebook](https://github.com/facebook) ([@Instagram](https://github.com/instagram)), [@Google](https://github.com/google), [@Globality](https://github.com/globality-corp), [@Tulip](https://github.com/tulip)
