@@ -4,6 +4,6 @@
 
 ---
 
-- 📍 Toronto, ON 🇨🇦 / Los Angeles, CA 🇺🇸
+- 📍 Los Angeles, CA 🇺🇸
 - 📚 [University of Waterloo](https://uwaterloo.ca/) CS Alumni (Class of 2021)
 - 💻 Software Engineer [@Instagram](https://github.com/instagram)
