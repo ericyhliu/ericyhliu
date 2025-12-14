@@ -1,4 +1,4 @@
-[website](https://ericyhliu.com) / [linkedin](https://linkedin.com/in/ericyhliu) / [email](mailto://contact@ericyhliu.com)
+[website](https://ericyhliu.com) / [linkedin](https://linkedin.com/in/ericyhliu) / [email](mailto:contact@ericyhliu.com)
 
 ---
 
