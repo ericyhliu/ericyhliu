@@ -2,4 +2,4 @@ hi, i'm eric. i'm a software engineer based in los angeles. currently [@meta](ht
 
 previously [@google](https://google.com), [@globality](https://globality.com), [@tulip](https://tulip.co). 
 
-[university of waterloo](https://uwaterloo.ca) alumni.
+alumni [@university of waterloo](https://uwaterloo.ca).
