@@ -2,7 +2,7 @@
 
 ---
 
-hi, i'm eric. i'm a software engineer based in los angeles. 
+hi, i'm eric. i'm a software engineer based in singapore.
 
 currently [@meta](https://meta.com). 
 
